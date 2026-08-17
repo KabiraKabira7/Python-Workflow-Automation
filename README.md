@@ -1,0 +1,1 @@
+A practical Python automation repository focused on automating repetitive tasks, data processing, file handling, and real-world workflows using Python.
